@@ -1,5 +1,7 @@
 # WhatYum
 
+[ URL ] : https://jikor1st.github.io/WhatYum
+
 공모전 출품을 하기 위한 3인 팀 프로젝트 서비스 기획 프로모션 사이트
 
 ### 과정
